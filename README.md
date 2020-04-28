@@ -15,3 +15,7 @@ After developing these projects locally, I just moved the code into my [codepen.
 ## APIs and Microservices
 
 The ```api``` directory is where I keep the code for my *APIs and Microservices* certification. I used a heroku dyno to host my services.
+
+## Information Security and Quality Assurance Certification
+
+The ```qa``` directory is where I keep the code for my *Information Security and Quality Assurance* certification. I used a heroku dyno to host my services.
