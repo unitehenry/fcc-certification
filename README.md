@@ -1,6 +1,6 @@
 # Free Code Camp Full-Stack Certification
 
-This is a repository with some of the code I used to complete my Free Code Camp Full-Stack Certification. Check out all my Free Code Cap progress [here](https://www.freecodecamp.org/fccc1c4406e-646e-478d-a7b6-771d8c2139ba).
+This is a repository with some of the code I used to complete my Free Code Camp Full-Stack Certification. Check out all my Free Code Camp progress [here](https://www.freecodecamp.org/fccc1c4406e-646e-478d-a7b6-771d8c2139ba).
 
 ## Front End 
 
